@@ -1,2 +1,3 @@
-# raspi-thermal-cam
-Raspberry Pi Thermal Camera in Real Time with MLX90640 and Python
+# Raspberry Pi Thermal Camera in Real Time with MLX90640 and Python
+
+![Raspi MLX Wiring](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1591731759228-C66M7BWPEH5KPK3UYZ9A/ke17ZwdGBToddI8pDm48kL0aU6AQOwPnD5bbw5AxIml7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ldnepkVHAptGDUshypSjuZyJSo6UXQu3jq1vLDMsMGe5B2oEJkekO2SJjQQAHY12w/mlx90640_rpi_wiring_diagram_w_table.png?format=1500w)
