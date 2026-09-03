@@ -1,5 +1,7 @@
 # Raspberry Pi Thermal Camera in Real Time with MLX90640 and Python
 
+**Interactive companion:** [Edge & SBC Benchmarks](https://makerportal.ai/lab/edge-sbc-benchmarks) — compare compute, memory, and efficiency tradeoffs for edge workloads.
+
 Full tutorial and demo at: https://makersportal.com/blog/2020/6/8/high-resolution-thermal-camera-with-raspberry-pi-and-mlx90640 <br><br>
 Buy a thermal camera from our store: https://makersportal.com/shop/mlx90640-thermal-camera-for-raspberry-pi-32-x-24-pixels
 
